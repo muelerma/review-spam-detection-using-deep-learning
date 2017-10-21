@@ -24,6 +24,10 @@ The following steps have to be undertaken in order to reproduce results:
 
 Use clean\_json\_amazon.py to convert reviews\_Electronics.json.gz to strict json to be able to work with it in R.
 
+Amazon reviews can be found here: http://jmcauley.ucsd.edu/data/amazon/
+
+Yelp academic dataset: https://www.yelp.com/dataset_challenge (2016 data not available) 
+
 ### 2. Identify near-duplicates
 
 Use find\_duplicates.R to generate candidate pairs of near-duplicate reviews.

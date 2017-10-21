@@ -1,3 +1,5 @@
 \scripts_new
 README.Rmd
 WORKFLOW_README.txt
+.ipynb_checkpoints
+.Rhistory
